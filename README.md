@@ -26,6 +26,6 @@ npm install
 node app.js
 ~~~
 
-# Como rodar o projeto
+# Link de apresentação do projeto
 
 - Vídeo de apresentação do projeto: https://www.youtube.com/watch?v=pfXgswrdlng
