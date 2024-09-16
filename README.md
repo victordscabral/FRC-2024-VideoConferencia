@@ -11,6 +11,18 @@
 
 - Clonar o repositório
 
+~~~bash
+git@github.com:ShaineOliveira/FRC-2024.git
+~~~
+
+- Instalar as dependências
+
+~~~bash
+npm install
+~~~
+
 - Rodar na raiz do projeto:
-   npm install e node app.js
+ ~~~bash
+node app.js
+~~~
 
